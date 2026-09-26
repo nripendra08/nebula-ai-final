@@ -1,0 +1,37 @@
+ARJUN KUMAR
+Software Engineer | Computer Science Student
+
+Email: arjun.kumar@example.com
+Location: Chennai, India
+
+SUMMARY
+Computer Science student with hands-on experience in Python, JavaScript, web development,
+databases, Flask, REST APIs, and basic AI/ML.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+IIIT Sri City
+Expected Graduation: 2027
+
+TECHNICAL SKILLS
+Python, Java, JavaScript, C, HTML, CSS, Flask, REST APIs, SQLite, MySQL, Git, GitHub,
+Data Structures, Algorithms, OOP, DBMS, Computer Networks, basic machine learning.
+
+PROJECTS
+NEBULA AI - AI Interview Practice Platform
+- Built a Flask web application for personalized mock interviews.
+- Designed a responsive frontend using HTML, CSS, and JavaScript.
+- Added resume-based interview context and candidate feedback.
+
+Student Task Manager
+- Developed a Flask and SQLite task management application.
+- Implemented CRUD operations and responsive UI.
+
+EXPERIENCE
+Software Development Intern - Student Project Team, 2026
+- Worked in a four-member development team.
+- Used Git and GitHub for collaboration.
+- Debugged application issues and participated in testing.
+
+SOFT SKILLS
+Problem solving, teamwork, communication, adaptability, time management.
